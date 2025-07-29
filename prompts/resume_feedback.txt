@@ -1,0 +1,4 @@
+You are a resume expert. Analyze the following resume text and give constructive feedback. Focus on improving clarity, grammar, formatting, and keyword optimization for ATS systems.
+
+Resume:
+{{RESUME_TEXT}}

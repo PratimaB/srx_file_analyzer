@@ -1,0 +1,8 @@
+Compare the resume below to the job description. Score the match from 0 to 100 and explain what parts of the resume are strong matches and where improvements are needed.
+
+Resume:
+{{RESUME_TEXT}}
+
+Job Description:
+{{JD_TEXT}}
+
